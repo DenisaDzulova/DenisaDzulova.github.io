@@ -1,10 +1,35 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  name: Trinity College Dublin (TCD), Dublin, Ireland
+  dates: Aug 2013 – June 2014
+  link: tcd.ie
+  job_title: Research Assistant
   quote: >
-   Short description of the company (optional)
+    placeholder.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Research in the TCD ocular development and neurobiology group. 
+    Project involved dissection of chick retinas and culturing of RPE cells. 
+    Techniques mostly applied were PCR, qPCR, RNA extraction, cDNA synthesis, cell culture and chick embryo/retina dissection.
+
+- layout: left
+  name: National Institute of Cellular Biotechnology (NICB), Dublin, Ireland
+  dates: June 2013 – Aug 2013
+  link: nicb.ie
+  job_title: Research Assistant
+  quote: >
+    placeholder.
+  description: | # this will include new lines to allow paragraphs
+    Internship involved working on a project “iPSC to Corneal Differentiation”. 
+    Stem cell culture, qPCR, western blotting and several other standard cell biology techniques were used. 
+
+- layout: left
+  name: 
+  dates: Apr 2012 – Aug 2012
+  link: HES-SO
+  job_title: Research Assistant
+  quote: >
+    placeholder.
+  description: | # this will include new lines to allow paragraphs
+    Internship at HES-SO Technologies du Vivant, Valais Wallis, Sion, Switzerland. 
+    As part of my work placement at HES-SO, I was participating on a worldwide project called ORION. 
+    The techniques acquired during my placement included fermentation, handling a bioreactor, comprehensive report writing and analytics of samples. 
