@@ -31,11 +31,11 @@ orcid_username: 0000-0001-8496-3725
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Denisa and I'm a post-doc scientist in IRO. awards. current_position. other skills. scientific.
-  Highly motivated & committed. Speciality: Human genomics & immunology. Style: Working with a wide range of specialists from international teams. Aim: To organise large, collaborative research projects in human health with a lasting impact based on open, reproducible science. 
-  Key skills: Collaborative, Big data analysis, Project management, Extract & visualise key data, Making complex systems simple 
-  
-  I am most skilled in: <mark>xx</mark>
+  I have obtained a PhD in Ophthalmic Genetics at Section of Ophthalmology and Neuroscience at University of Leeds, Leeds, United Kingdom in 2018. 
+  The focus of my PhD was using NGS technology to identify the genetic bases of a blinding idiopathic and non-hereditary retinal vasculopathy called Coats disease from aged FFPE enucleated eyes. 
+  I have implemented many of techniques and skills acquired throughout my PhD into my current Postdoctoral position which focuses on stem cell research of retinal vascular diseases. 
+  I have developed a strong interest in genomics and stem cell research, and I’ve learnt what this entails in the laboratory setting.
+  Now I am interested in applying my expertise of genetics, NGS and stem cells into clinical product development which allows me to put the research into practice. 
 
 # Projects Section
 projects_title: Projects
