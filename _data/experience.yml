@@ -12,16 +12,16 @@
 - layout: left
   name: National Institute of Cellular Biotechnology (NICB), Dublin, Ireland
   dates: June 2013 – Aug 2013
-  link: nicb.ie
+#  link: nicb.ie
   job_title: Research Assistant
   description: | # this will include new lines to allow paragraphs
     Internship involved working on a project “iPSC to Corneal Differentiation”. 
     Stem cell culture, qPCR, western blotting and several other standard cell biology techniques were used. 
 
 - layout: left
-  name: 
+  name: HES-SO Technologies du Vivant
   dates: Apr 2012 – Aug 2012
-  link: HES-SO
+  link: www.hevs.ch
   job_title: Research Assistant
   description: | # this will include new lines to allow paragraphs
     Internship at HES-SO Technologies du Vivant, Valais Wallis, Sion, Switzerland. 
