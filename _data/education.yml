@@ -6,7 +6,11 @@
 #  quote: >
 #    placeholder. test
   description: | # this will include new lines to allow paragraphs
-    “Identifying and Characterizing the Genes and Proteins Underlying Coats Disease”. This project focused on the investigation of formalin-fixed, paraffin embedded (FFPE) Coats’ eye globes using NGS technologies. DNA extraction from >15-year-old FFPE eye globes was optimized to a fully working protocol with high DNA yield. The analysis was carried out with the use of many bioinformatics tools, such as BWA, VCFtools, GATK, Picard and automated pathogenicity prediction tools. To determine the effect of the identified candidate variants, a range of functional assays were implemented, including dual luciferase TOPflash assay, live cell imaging, western blotting and immunofluorescence. 
+    “Identifying and Characterizing the Genes and Proteins Underlying Coats Disease” at Leeds Institute of Medical Research.
+    This project focused on the investigation of formalin-fixed, paraffin embedded (FFPE) Coats’ eye globes using NGS technologies. 
+    DNA extraction from >15-year-old FFPE eye globes was optimized to a fully working protocol with high DNA yield. 
+    The analysis was carried out with the use of many bioinformatics tools, such as BWA, VCFtools, GATK, Picard and automated pathogenicity prediction tools. 
+    To determine the effect of the identified candidate variants, a range of functional assays were implemented, including dual luciferase TOPflash assay, live cell imaging, western blotting and immunofluorescence. 
 
 - layout: left
   name: Dublin City University
