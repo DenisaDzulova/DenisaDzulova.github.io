@@ -3,7 +3,7 @@ repository: DenisaDzulova/modern-resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Denisa Dzulova
+name: Denisa Džulová
 title: Postdoctoral researcher, Switzerland
 email: Denisa.Dzulova@irovision.ch
 # website: https://dylanlawlessblog.wordpress.com
@@ -15,11 +15,11 @@ email: Denisa.Dzulova@irovision.ch
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: lawless.ch
-linkedin_username: dylan-lawless-human-genomics
+# linkedin_username: dylan-lawless-human-genomics
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0001-8496-3725
+# orcid_username: 0000-0001-8496-3725
 
 # Additional icon links
 # additional_links:
@@ -50,12 +50,12 @@ awards_title: Awards
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Other skills
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [url link](https://www.youtube.com/)
+# more_content: | # this will include new lines to allow paragraphs
+#  Other skills
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [url link](https://www.youtube.com/)
 
 # Footer
 footer_show_references: true
