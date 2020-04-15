@@ -1,5 +1,6 @@
+# Experiences   
 - layout: left
-  name: Trinity College Dublin (TCD), Dublin, Ireland
+  company: Trinity College Dublin (TCD), Dublin, Ireland
   dates: Aug 2013 – June 2014
   link: tcd.ie
   job_title: Research Assistant
@@ -7,14 +8,14 @@
     Research in the TCD ocular development and neurobiology group. Project involved dissection of chick retinas and culturing of RPE cells. Techniques mostly applied were PCR, qPCR, RNA extraction, cDNA synthesis, cell culture and chick embryo/retina dissection
 
 - layout: left
-  name: National Institute of Cellular Biotechnology (NICB), Dublin, Ireland
+  company: National Institute of Cellular Biotechnology (NICB), Dublin, Ireland
   dates: June 2013 – Aug 2013
   job_title: Research Assistant
   description: | # this will include new lines to allow paragraphs
     Internship involved working on a project “iPSC to Corneal Differentiation”. Stem cell culture, qPCR, western blotting and several other standard cell biology techniques were used. 
 
 - layout: left
-  name: HES-SO Technologies du Vivant
+  company: HES-SO Technologies du Vivant
   dates: Apr 2012 - Aug 2012
   link: hevs.ch
   job_title: Research Assistant
