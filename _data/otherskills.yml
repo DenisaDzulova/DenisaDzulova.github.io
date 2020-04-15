@@ -1,7 +1,6 @@
 - layout: left
   name: Scientific skills
   description: | # this will include new lines to allow paragraphs
-   - Other skills
    - Maintenance, manipulation and differentiation of iPSCs
    - Tissue culture of various cell lines, including primary cell lines
    - Maintenance, breeding and dissections of chick embryos, pig eyes and zebrafish to retrieve eyes and retina for further culture and/or analysis
