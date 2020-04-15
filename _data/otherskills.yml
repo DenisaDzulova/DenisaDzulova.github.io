@@ -1,4 +1,5 @@
 - layout: left
   name: xx
   description: | # this will include new lines to allow paragraphs
-    Other skills
+   - Other skills
+   - Other skills
